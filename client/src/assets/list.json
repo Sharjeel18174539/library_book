@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "name":"Tafsir",
+        "title":"Tafsir refers to the explanation or interpretation of the Quran. It is a scholarly effort to understand the meanings, context, and implications of the Quranic verses in light of Islamic teachings. ",
+        "price":"00",
+        "category":"free",
+        "image":"https://t3.ftcdn.net/jpg/10/85/18/30/360_F_1085183079_zFvfQgSTe6kpcBUA6QomkqcWMtQMUwDv.jpg"
+        
+
+    },
+    {
+        "id":2,
+        "name":"Tajweed ",
+        "title":"Tajweed refers to the set of rules governing the proper pronunciation, articulation, and recitation of the Quran.",
+        "price":"00",
+        "category":"free",
+        "image":"https://t3.ftcdn.net/jpg/10/85/18/30/360_F_1085183079_zFvfQgSTe6kpcBUA6QomkqcWMtQMUwDv.jpg"
+
+    },
+    {
+        "id":3,
+        "name":"Hifz",
+        "title":"Hifz is the process of memorizing the entire Quran, an act of devotion and a highly honored practice in Islam.",
+        "price":"0",
+        "category":"free",
+        "image":"https://t3.ftcdn.net/jpg/10/85/18/30/360_F_1085183079_zFvfQgSTe6kpcBUA6QomkqcWMtQMUwDv.jpg"
+    },
+    {
+        "id":4,
+        "name":"Hadith Studies",
+        "title":"Hadith refers to the sayings, actions, and approvals of the Prophet Muhammad (peace be upon him). ",
+        "price":"150$",
+        "category":"paid",
+        "image":"../assets/hadith.png"
+    },
+    {
+        "id":5,
+        "name":"Aqeedah",
+        "title":"Aqeedah refers to the fundamental beliefs and creed of a Muslim, forming the foundation of their faith (Iman). It encompasses belief in the six articles of faith and the principles of Tawheed (monotheism).",
+        "price":"180$",
+        "category":"paid",
+        "image":"../assets/aqeedah.png"
+    },
+    {
+        "id":6,
+        "name":"Aqeedah",
+        "title":"Aqeedah refers to the fundamental beliefs and creed of a Muslim, forming the foundation of their faith (Iman). It encompasses belief in the six articles of faith and the principles of Tawheed (monotheism).",
+        "price":"180$",
+        "category":"paid",
+        "image":"../assets/aqeedah.png"
+    }
+
+]
